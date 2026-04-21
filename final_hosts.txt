@@ -1,4 +1,4 @@
-﻿8.6.112.0 4pda.to
+8.6.112.0 4pda.to
 185.5.160.82 a1961.g2.akamai.net
 103.27.157.38 a1968.i6g1.akamai.net
 37.230.192.51 a-api.anthropic.com
