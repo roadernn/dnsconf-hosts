@@ -73,7 +73,6 @@
 77.239.114.0 canva.com
 45.155.204.190 cat.fmhy.net
 13.32.46.190 cdn.auth0.com
-77.239.114.0 cdn.id.supercell.com
 8.47.69.0 cdn.oaistatic.com
 45.155.204.190 chat.openai.com
 77.239.114.0 chatgpt.com
@@ -97,7 +96,6 @@
 142.250.190.241 csp.withgoogle.com
 138.201.54.122 cursor.com
 77.239.114.0 datalore.jetbrains.com
-0.0.0.0 datarouter.ol.epicgames.com
 18.164.96.28 dd.tidal.com
 77.239.114.0 dds.dell.com
 77.239.114.0 deepl.com
@@ -135,6 +133,16 @@
 151.101.5.91 fsu.fa.tidal.com
 77.239.114.0 game.brawlstarsgame.com
 108.165.164.201 game.clashroyaleapp.com
+77.239.114.0 cdn.id.supercell.com
+204.12.196.34 firebaselogging.googleapis.com
+142.251.40.227 www.gstatic.com
+142.251.40.227 www.recaptcha.net
+80.74.29.235 o315582.ingest.sentry.io
+50.7.87.3 clashroyaleapp.com
+108.138.106.125 supercell.com
+50.7.87.2 supercellid.com
+50.7.87.4 update.clashroyaleapp.com
+50.7.87.5 assets.clashroyaleapp.com
 45.95.233.23 game.mocogame.com
 77.239.114.0 game.squadbustersgame.com
 13.218.101.142 gamea.clashofclans.com
@@ -146,12 +154,10 @@
 45.155.204.190 gemini.google.com
 45.155.204.190 generativeai.google
 45.155.204.190 generativelanguage.googleapis.com
-0.0.0.0 geolocation.onetrust.com
 37.230.192.51 gew1-dealer.spotify.com
 45.155.204.190 gew1-spclient.spotify.com
 77.239.114.0 githubcopilot.com
 142.251.41.174 google.com
-0.0.0.0 google-analytics.com
 142.251.211.65 googleusercontent.com
 77.239.114.0 gql.twitch.tv
 77.239.114.0 grok.com
